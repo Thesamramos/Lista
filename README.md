@@ -1,1 +1,1 @@
-Lista de atividades simples, utilizando apenas HTML.
+Lista simples, utilizando apenas HTML.
